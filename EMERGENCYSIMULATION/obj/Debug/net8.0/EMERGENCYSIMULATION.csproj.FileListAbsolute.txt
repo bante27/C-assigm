@@ -1,0 +1,14 @@
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\bin\Debug\net8.0\EMERGENCYSIMULATION.exe
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\bin\Debug\net8.0\EMERGENCYSIMULATION.deps.json
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\bin\Debug\net8.0\EMERGENCYSIMULATION.runtimeconfig.json
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\bin\Debug\net8.0\EMERGENCYSIMULATION.dll
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\bin\Debug\net8.0\EMERGENCYSIMULATION.pdb
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\EMERGENCYSIMULATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\EMERGENCYSIMULATION.AssemblyInfoInputs.cache
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\EMERGENCYSIMULATION.AssemblyInfo.cs
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\EMERGENCYSIMULATION.csproj.CoreCompileInputs.cache
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\EMERGENCYSIMULATION.dll
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\refint\EMERGENCYSIMULATION.dll
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\EMERGENCYSIMULATION.pdb
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\EMERGENCYSIMULATION.genruntimeconfig.cache
+C:\Users\fj\Downloads\Telegram Desktop\Event and\EMERGENCYSIMULATION\EMERGENCYSIMULATION\obj\Debug\net8.0\ref\EMERGENCYSIMULATION.dll
